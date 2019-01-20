@@ -1,0 +1,13 @@
+﻿  Main.cpp
+  Hacks.cpp
+c:\users\zachary\documents\visual studio 2015\projects\bhoptut\memory.h(24): warning C4101: 'osq39h': unreferenced local variable
+c:\users\zachary\documents\visual studio 2015\projects\bhoptut\utils.h(70): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\zachary\documents\visual studio 2015\projects\bhoptut\utils.h(71): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\zachary\documents\visual studio 2015\projects\bhoptut\utils.h(73): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\zachary\documents\visual studio 2015\projects\bhoptut\utils.h(74): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\zachary\documents\visual studio 2015\projects\bhoptut\utils.h(97): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\zachary\documents\visual studio 2015\projects\bhoptut\utils.h(98): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\zachary\documents\visual studio 2015\projects\bhoptut\hacks.cpp(44): warning C4101: 'osq39h': unreferenced local variable
+  Generating Code...
+  BHopTut.vcxproj -> C:\Users\Zachary\Documents\Visual Studio 2015\Projects\BHopTut\Debug\BHopTut.exe
+  BHopTut.vcxproj -> C:\Users\Zachary\Documents\Visual Studio 2015\Projects\BHopTut\Debug\BHopTut.pdb (Full PDB)
